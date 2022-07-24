@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#header3 {
+    color: darkgoldenrod;
+    font-size:x-large ;
+}
+.First p {
+    color: brown;
+    font-size: medium;
+}
+.second p {
+    color:blueviolet;
+    font-size: larger;
+}
